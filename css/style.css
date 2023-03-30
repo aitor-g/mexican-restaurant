@@ -367,6 +367,7 @@ tfoot td {
   .header__h1::before {
     content: "🌮 ";
   }
+
   .header__h1::after {
     content: " 🌮";
   }
